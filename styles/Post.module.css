@@ -1,0 +1,32 @@
+.pageContainer {
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  padding: 0 20px;
+  width: 45%;
+  align-items: center;
+  border-bottom: 2px solid black;
+  margin-bottom: 30px;
+}
+
+.imgContainer {
+  width: 100%;
+}
+
+.imgContainer img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.bottom {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.bottom button {
+  outline: none;
+  border: none;
+  color: teal;
+  background: none;
+}

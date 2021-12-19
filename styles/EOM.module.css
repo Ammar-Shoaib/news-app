@@ -1,0 +1,7 @@
+.pageContainer {
+  height: 100vh;
+  display: flex;
+  margin-top: 100px;
+  align-items: center;
+  flex-direction: column;
+}
